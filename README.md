@@ -46,24 +46,24 @@ To run the server directly from source:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/ayush-rudani/google-search-mcp-server.git
-   cd google-search-mcp-server
+    git clone https://github.com/ayush-rudani/google-search-mcp-server.git
+    cd google-search-mcp-server
    ```
 
 2. **Install dependencies**
 
    ```bash
-   pnpm install
-   # or
-   npm install
+    pnpm install
+    # or
+    npm install
    ```
 
 3. **Build the project**
 
    ```bash
-   npm run build
-    # or
     pnpm run build
+    # or
+    npm run build
    ```
 
 4. **Configure Claude Desktop**
